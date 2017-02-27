@@ -1,6 +1,6 @@
 FROM debian:latest
 
-MAINTAINER Andreas Sorge <andsor@mailbox.org>
+MAINTAINER Andreas Sorge <as@pycnic.org>
 
 RUN apt-get update \
   && apt-get install -y --no-install-recommends texlive \

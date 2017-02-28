@@ -20,4 +20,4 @@ RUN apt-get update \
 
 RUN mkdir /var/tex
 WORKDIR /var/tex
-CMD ["/usr/bin/pdflatex", "--version"]
+CMD ["/usr/local/bin/pdflatex", "--version"]

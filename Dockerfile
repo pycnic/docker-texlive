@@ -1,4 +1,4 @@
-FROM debian:8.7
+FROM debian:latest
 
 # Credits go to Henri Menke <texlive@henrimenke.de>
 # https://github.com/pycnic/tl-docker/tree/57d05320f9541a4d5152e5bb1f57c4953cf061ca/2016

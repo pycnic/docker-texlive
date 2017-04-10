@@ -10,7 +10,7 @@ collection-basic 1
 collection-bibtexextra 1
 collection-binextra 1
 collection-context 1
-collection-fontsextra 0
+collection-fontsextra 1
 collection-fontsrecommended 1
 collection-fontutils 1
 collection-formatsextra 1

@@ -1,8 +1,7 @@
 # docker-texlive
 
 Dockerfile for a Debian system with TeX Live installed.
-To reduce image size, the ``fontsextra`` collection is **not** installed;
-furthermore, documentation and sources are **not** installed.
+To reduce image size, documentation and sources are **not** installed.
 
 Branches of the repository translate to Docker tags, see
 [Docker Hub Build Settings](https://hub.docker.com/r/pycnic/texlive/~/settings/automated-builds/).
